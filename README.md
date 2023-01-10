@@ -10,7 +10,7 @@
   
   <br><br>
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Milleny27&theme=dracula&hide_border=true&area=true)
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Milleny27&theme=dracula&hide_border=true&area=true)-->
   
  <br>
   
