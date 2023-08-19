@@ -6,17 +6,17 @@
     <a href="mailto:ellenmilleny@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/nickgabe/">
+    <a href="https://www.linkedin.com/in/millenyellen">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 </br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="#">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Milleny27&theme=transparent" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="#">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Milleny27&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
 </div>
