@@ -67,8 +67,9 @@
 
 </details>
 
-## **You can find me on**
-<p>
+<hr>
+
+<p align="center">
     <a href="https://www.hackerearth.com/@ellenmilleny">
       <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>
     </a>
